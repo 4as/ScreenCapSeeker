@@ -1,0 +1,2 @@
+﻿[*.{cs,vb}]
+dotnet_style_prefer_auto_properties = false:silent
