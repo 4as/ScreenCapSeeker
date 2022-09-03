@@ -16,7 +16,7 @@ When selecting a screenshot try to get as close as possible to the quality of th
 
 ##### Results
 As the video is being process **ScreenCapSeeker** will show the preview of the current results. Updated every 100 frames.  
-![Progress results](docs/preview.jpg)  
+![Progress results](docs/progress.jpg)  
 1. Currently processed frame. 
 2. Last processed frame to best match the supplied screenshot.
 3. Data used for the comparison operation. In 99% of cases this will be the same frame as #2.
